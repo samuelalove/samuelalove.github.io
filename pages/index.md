@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Samuel Love archive
 layout: homepage
 permalink: /
 ---
